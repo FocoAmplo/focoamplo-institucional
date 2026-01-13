@@ -79,5 +79,24 @@ body {
 .logo img {
   height: 42px;
   display: block;
+  }
+
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo img {
+  height: 46px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav a {
+  margin-left: 25px;
 }
 
