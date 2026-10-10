@@ -4,7 +4,7 @@ Textos para adaptar e aprovar antes de publicar. Completar os campos entre colch
 
 ## 1. Proprietário que deseja apresentar um imóvel
 
-Tem um imóvel ou terreno em Itajaí e região e quer apresentar a oportunidade a pessoas ou empresas interessadas? A Foco Amplo ajuda a organizar as informações iniciais e conectar as partes.  
+Tem um imóvel ou terreno em Itajaí e região e quer apresentar a oportunidade a pessoas ou empresas interessadas? A Foco Amplo Conexões ajuda a organizar as informações iniciais e conectar as partes.  
 Fale com Silvanio: WhatsApp (47) 99235-1740.
 
 ## 2. Comprador ou investidor
@@ -33,7 +33,7 @@ WhatsApp (47) 99235-1740.
 Características confirmadas: **[informações verificadas]**  
 Condições: **[preço ou condição autorizada]**  
 Informações e contato: **[responsável / parceiro credenciado]**  
-Fale com a Foco Amplo pelo WhatsApp (47) 99235-1740.
+Fale com a Foco Amplo Conexões pelo WhatsApp (47) 99235-1740.
 
 ## Checklist antes de publicar
 
