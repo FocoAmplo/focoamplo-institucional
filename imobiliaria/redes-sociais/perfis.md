@@ -18,7 +18,7 @@
 **Nome do perfil:** Foco Amplo Conexões
 
 **Bio:**
-Conectamos pessoas a oportunidades  
+Conexões e oportunidades  
 Imóveis • terrenos • áreas para projetos  
 Pontos para eletropostos e mídia  
 📍 Itajaí e região | SC  
